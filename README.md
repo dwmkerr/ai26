@@ -13,6 +13,8 @@ Prediction and speculation for AI in 2026.
 
 ## The Anthropic Skill Supply Chain Attack
 
+Code for my article [AI26 - The Anthropic Skill Supply Chain Attack](http://dwmkerr.com/anthropic-skill-supply-chain-attack/)
+
 > [!WARNING]
 > **Security Research Code - Use At Your Own Risk**
 >
