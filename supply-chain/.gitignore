@@ -1,0 +1,10 @@
+# Generated stuff.
+function.zip
+permissions-policy.json
+trust-policy.json
+
+# Config.
+.env
+
+# Logs.
+logs.jsonl

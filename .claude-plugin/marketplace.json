@@ -1,0 +1,14 @@
+{
+  "name": "ai26",
+  "owner": {
+    "name": "dwmkerr"
+  },
+  "plugins": [
+    {
+      "name": "ai26",
+      "source": "./plugins/ai26",
+      "description": "PDF conversion and document processing tools",
+      "version": "0.1.0"
+    }
+  ]
+}
